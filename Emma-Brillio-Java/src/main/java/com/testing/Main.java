@@ -16,5 +16,6 @@ public class Main {
 
 
         System.out.println("Hello Emma, Welcome to one piece of java");
+        System.out.println("Hi po!");
     }
 }
